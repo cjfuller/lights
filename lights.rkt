@@ -1,7 +1,5 @@
 #lang racket
 
-(displayln "Hello, world!")
-
 ;; TODO: parameterize?  set?
 (define arduino-port "/dev/tty.usbmodem14141")
 (define pin 7)
