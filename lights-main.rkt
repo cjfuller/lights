@@ -1,6 +1,6 @@
 #lang racket
 
-(require "./deferred.rkt")
+(require deferred)
 (require "./lights.rkt")
 
 (init)
